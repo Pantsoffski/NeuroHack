@@ -1,5 +1,7 @@
 # NeuroHack 🧠⚔️
 
+![NeuroHack Gameplay](images/gameplay.png)
+
 A terminal-based roguelike game powered by a Cloud-Native Generative AI architecture. 
 
 Unlike traditional games with hardcoded monster logic, NeuroHack uses **Llama 3.1 8B** (via Groq LPU) combined with deterministic BFS pathfinding to create enemies that not only hunt the player flawlessly but also generate dynamic, personality-driven taunts in real-time.
